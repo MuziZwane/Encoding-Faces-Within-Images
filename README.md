@@ -90,6 +90,3 @@ Once deployed, the Lambda function will automatically process new images uploade
 
 Contributions to improve the face encoding Lambda function are welcome. Please feel free to submit pull requests or open issues to discuss potential improvements.
 
-## License
-
-[Specify your chosen license here]
